@@ -6,15 +6,15 @@ next: hooks-state.html
 prev: hooks-intro.html
 ---
 
-*Hooks* are a new addition in React 16.8. They let you use state and other React features without writing a class.
+React 16.8 ലെ പുതിയതായി ചേർക്കപ്പെട്ട ഫീച്ചർ ആണ് *Hooks*. ഇത് ഉപയോഗിച്ച് class എഴുതാതെ സ്റ്റേറ്റും മറ്റ് റീയാക്റ്റ് ഫീച്ചറുകളും ഉപയോഗിക്കാനാവും.
 
-Hooks are [backwards-compatible](/docs/hooks-intro.html#no-breaking-changes). This page provides an overview of Hooks for experienced React users. This is a fast-paced overview. If you get confused, look for a yellow box like this:
+Hooks [backwards-compatible](/docs/hooks-intro.html#no-breaking-changes) ആണ്. ഈ അദ്ധ്യായം തഴക്കമുള്ള React ഡെവലപ്പേഴ്സിന് വേണ്ടി ഉള്ള വേഗതയേറിയ ഒരു അവലോകനമാണ്. നിങ്ങൾക്ക് ആശയക്കുഴപ്പം ഉണ്ടെങ്കിൽ, ഇതുപോലുള്ള ഒരു മഞ്ഞ ബോക്സിനായി നോക്കുക
 
->Detailed Explanation
+>വിശദീകരണം
 >
->Read the [Motivation](/docs/hooks-intro.html#motivation) to learn why we're introducing Hooks to React.
+>Hooks എന്ത് കൊണ്ട് ഉൾപ്പെടുത്തുന്നു എന്ന് അറിയുവാൻ [പ്രചോദനം](/docs/hooks-intro.html#motivation) വായിക്കാം 
 
-**↑↑↑ Each section ends with a yellow box like this.** They link to detailed explanations.
+**↑↑↑ ഓരോ വിഭാഗവും ഇതുപോലൊരു മഞ്ഞ ബോക്സിലാണ് അവസാനിക്കുന്നത്. അവർ വിശദമായ വിവരണങ്ങളുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു.
 
 ## 📌 State Hook {#state-hook}
 
