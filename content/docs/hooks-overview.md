@@ -1,6 +1,6 @@
 ---
 id: hooks-overview
-title: Hooks at a Glance
+title: Hooks ഒറ്റനോട്ടത്തിൽ
 permalink: docs/hooks-overview.html
 next: hooks-state.html
 prev: hooks-intro.html
